@@ -2,14 +2,10 @@
    "files": [    
 
 
-{
-         "name": "Singapore-VPS-1",
-         "url": "https://raw.githubusercontent.com/wonnachan0/wonnachan/main/VIP_H.ovpn"
-      },
 
 
 {
-         "name": "Thailand-VPS-1",
+         "name": "Thailand_GAME-1",
          "url": "https://raw.githubusercontent.com/wonnachan0/wonnachan/main/VIP_H.ovpn"
       }       
 
@@ -17,6 +13,6 @@
   ],
 "message":"🟢 VPS 🟢\n\n📢 VIP_Pro 📢\n\n•🚀Fixed All Servers🚀\n•Version:3\n\n•Owner By: WonNaChan ",
    "title":"💙 2023 💙" ,
-   "version": 02
+   "version": 03
 
 }
