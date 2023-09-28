@@ -3,10 +3,9 @@
 
 // เวอร์ชันสำหรับอัพเดตหากมีการอัพเดตต้องเปลี่ยนตัวเลขมากกว่าเดิม
 
-"Version":"1.0.01",
+"version":"1.0.02",
 
-//link for server update
-
+// name
 "Url":"https://github.com/wonnachan0/wonnachan/raw/main/VIP__1.01.zip" ,
 
 "Changelog":"
@@ -34,7 +33,7 @@ VIP_Game-✓™🇹🇭
 
 "latestVersionCode": "1",
 
-"url": "",
+"files": "",
 
  "releaseNotes": [
 
