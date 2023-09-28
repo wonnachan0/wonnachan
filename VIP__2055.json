@@ -1,44 +1,16 @@
+{
+   "files": [    
+
 
 {
+         
+         "url": "https://github.com/wonnachan0/wonnachan/raw/main/VIP__1.01.zip"
+      }       
 
-// เวอร์ชันสำหรับอัพเดตหากมีการอัพเดตต้องเปลี่ยนตัวเลขมากกว่าเดิม
 
-"version":"1.0.02",
-
-// name
-"Url":"https://github.com/wonnachan0/wonnachan/raw/main/VIP__1.01.zip" ,
-
-"Changelog":"
- •••••••••••••
-Wonnachan™$✅
-VIP_Game-✓™🇹🇭  
-•••••••••••••
-",
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-// อย่ายุ่งกับด้านล่าง
-
-"latestVersion": "1.0.0",
-
-"latestVersionCode": "1",
-
-"files": "",
-
- "releaseNotes": [
-
- "-Demo"
-
-  ]
+  ],
+"message":"🟢 VPS 🟢\n\n📢 VIP_Pro 📢\n\n•🚀Fixed All Servers🚀\n•Version:3\n\n•Owner By: WonNaChan ",
+   "title":"💙 2023 💙" ,
+   "version": 02
 
 }
