@@ -1,19 +1,20 @@
 
 {
 
-// เวอร์ชันสำหรับอัพเดตหากมีการอัพเดตต้องเปลี่ยนตัวเลขมากกว่าเดิม
+// version for updating, if there is an update, need to change more numbers than before
 
-"Version":"1.0.01",
+"Version":"1.0.03",
 
-//ลิงค์สำหรับอัพเดตเซิฟเวอร์
+//link for server update
 
-"url":"https://github.com/wonnachan0/wonnachan/raw/main/VIP__1.01.zip" ,
+"Url":"https://github.com/wonnachan0/wonnachan/raw/main/VIP__1.01.zip" ,
 
 "Changelog":"
- •••••••••••••
-Wonnachan™$✅
-VIP_Game-✓™🇹🇭  
-•••••••••••••
+Wonnachan™$
+
+
+VIP_Game-✓™
+
 ",
 
  
@@ -28,15 +29,15 @@ VIP_Game-✓™🇹🇭
 
  
 
-// อย่ายุ่งกับด้านล่าง
+// don't mess with the bottom
 
-"รุ่นล่าสุด": "1.01",
+"latestVersion": "1.0.0",
 
-"ล่าสุด VersionCode": "1.01",
+"latestVersionCode": "1",
 
 "url": "",
 
- "หมายเหตุการเปิดตัว": [
+ "releaseNotes": [
 
  "-Demo"
 
