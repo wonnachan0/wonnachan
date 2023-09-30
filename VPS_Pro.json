@@ -2,22 +2,12 @@
    "files": [    
 
 
-{
-         "name": "Thailand_Pro-1",
-         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/kyaw4net.ovpn"
-      },
-      
       
 {
-         "name": "Thailand_Pro-2",
-         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/net8.ovpn"
-      },     
-      
-{
-         "name": "Thailand_Pro-3",
-         "url": "https://raw.githubusercontent.com/KYAWVPN/KYAW/main/GAMES11.ovpn"
-      },     
-   
+         "name": "Thailand_Game01",
+         "url": "https://raw.githubusercontent.com/wonnachan2/Mon-Vps1/main/VIP-1.ovpn"
+     
+      },  
       
 {
          "name": "Thailand_GAME-1",
@@ -28,6 +18,6 @@
   ],
 "message":"🟢 VPS 🟢\n\n📢 VIP_Pro 📢\n\n•🚀Fixed All Servers🚀\n•Version:3\n\n•Owner By: WonNaChan ",
    "title":"💙 2023 💙" ,
-   "version": 05
+   "version": 06
 
 }
